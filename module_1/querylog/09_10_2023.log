@@ -1,0 +1,12 @@
+SELECT *
+FROM animal
+WHERE owner >1;; #09:37:34@rubyquest.db
+SELECT *
+FROM animal
+WHERE type !='Sheep';; #09:39:26@rubyquest.db
+SELECT *
+FROM person
+ORDER BY name; #09:45:59@rubyquest.db
+SELECT *
+FROM city
+ORDER BY name DESC; #09:47:49@rubyquest.db

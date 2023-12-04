@@ -1,0 +1,5 @@
+{
+    "query": "SELECT * from animal\nWHERE owner='1>'",
+    "resultcount": 0,
+    "result": []
+}

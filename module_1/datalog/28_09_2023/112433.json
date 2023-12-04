@@ -1,0 +1,783 @@
+{
+    "query": "SELECT name and health from creature",
+    "resultcount": 259,
+    "result": [
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        },
+        {
+            "name and health": 0
+        }
+    ]
+}

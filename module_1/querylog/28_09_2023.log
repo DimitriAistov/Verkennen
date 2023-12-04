@@ -1,0 +1,71 @@
+SELECT * from hero
+
+; #11:08:09@rubyquest.db
+SELECT * from person
+
+
+; #11:08:49@rubyquest.db
+SELECT * from quest
+
+
+
+; #11:09:49@rubyquest.db
+SELECT * from creature
+
+
+
+; #11:10:19@rubyquest.db
+SELECT * from armor
+
+
+
+; #11:10:55@rubyquest.db
+SELECT name from armor
+
+
+
+; #11:17:22@rubyquest.db
+SELECT * from weapon
+
+
+
+; #11:19:01@rubyquest.db
+SELECT attack from weapon
+
+
+
+; #11:19:08@rubyquest.db
+SELECT * from creature
+; #11:24:03@rubyquest.db
+SELECT name and health from creature; #11:24:33@rubyquest.db
+SELECT name, health from creature; #11:24:54@rubyquest.db
+SELECT * FROM NPC; #11:33:33@rubyquest.db
+SELECT * from person
+WHERE id='7';; #11:39:18@rubyquest.db
+SELECT * from quest; #11:42:30@rubyquest.db
+SELECT * from quest; #11:42:31@rubyquest.db
+SELECT * from quest
+WHERE gold='0';; #11:42:49@rubyquest.db
+SELECT * from city; #11:44:07@rubyquest.db
+SELECT * from city
+Where region='1';; #11:44:19@rubyquest.db
+SELECT * from animal; #11:45:07@rubyquest.db
+SELECT * from animal
+WHERE type='sheep';; #11:45:21@rubyquest.db
+SELECT * from animal; #11:45:34@rubyquest.db
+SELECT * from animal
+WHERE type='Sheep';; #11:47:10@rubyquest.db
+SELECT * from animal; #11:47:34@rubyquest.db
+SELECT * from animal
+WHERE type='Sheep';; #11:47:48@rubyquest.db
+SELECT * from animal; #11:48:35@rubyquest.db
+SELECT * from animal
+WHERE owner='1>'; #11:48:55@rubyquest.db
+SELECT * from animal
+WHERE owner='1'; #11:49:49@rubyquest.db
+SELECT * from animal
+WHERE owner='>1'; #11:49:56@rubyquest.db
+SELECT * from animal
+WHERE owner='1>'; #11:50:01@rubyquest.db
+SELECT * from animal
+WHERE owner='1+'; #11:55:21@rubyquest.db

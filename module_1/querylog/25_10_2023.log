@@ -1,0 +1,20 @@
+SELECT *
+FROM animal
+; #09:22:23@rubyquest.db
+SELECT distinct *
+FROM animal
+; #09:23:55@rubyquest.db
+SELECT distinct *
+FROM animal
+; #09:24:01@rubyquest.db
+SELECT distinct *
+FROM animal
+; #09:24:03@rubyquest.db
+SELECT distinct type
+FROM animal
+; #09:24:10@rubyquest.db
+SELECT *
+FROM npc
+; #09:24:56@rubyquest.db
+SELECT distinct profession
+from npc; #09:46:49@rubyquest.db

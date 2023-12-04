@@ -1,0 +1,81 @@
+SELECT * from animal
+Where type ='owner' ; #09:43:09@rubyquest.db
+SELECT * from animal
+Where type ='owner' ; #09:43:12@rubyquest.db
+SELECT * from animal
+; #09:43:28@rubyquest.db
+SELECT * from animal
+; #09:44:19@rubyquest.db
+SELECT * from animal
+Where type ='owner'; #09:44:32@rubyquest.db
+SELECT * from animal
+WHERE type ='owner'; #09:44:46@rubyquest.db
+SELECT * from animal
+WHERE type ='owner'; #09:44:47@rubyquest.db
+SELECT * from animal
+WHERE type ='owner'; #09:44:47@rubyquest.db
+SELECT * from animal
+WHERE type ='owner';; #09:45:43@rubyquest.db
+SELECT * from animal
+WHERE type ='owner';; #09:46:34@rubyquest.db
+SELECT * from animal; #09:46:47@rubyquest.db
+SELECT * from animal; #09:46:52@rubyquest.db
+SELECT * from animal; #09:46:52@rubyquest.db
+SELECT * from animal; #09:47:14@rubyquest.db
+SELECT * from animal
+WHERE type ='Sheep';; #09:47:40@rubyquest.db
+SELECT * from animal
+WHERE owner = 1;; #09:47:59@rubyquest.db
+SELECT * from animal
+WHERE owner = '1>';; #09:48:10@rubyquest.db
+SELECT * from animal
+WHERE owner = '1';; #09:48:20@rubyquest.db
+SELECT * from animal
+WHERE owner = '1,2,3,4,5,6,';; #09:48:30@rubyquest.db
+SELECT * from animal
+WHERE owner = '1>';; #09:48:34@rubyquest.db
+SELECT * from animal
+WHERE owner = '0';; #09:48:37@rubyquest.db
+SELECT * from animal
+WHERE owner > 0;; #09:48:54@rubyquest.db
+SELECT * from quest; #09:51:56@rubyquest.db
+SELECT * from quest
+WHERE experience > 3000;; #09:52:21@rubyquest.db
+SELECT *
+FROM person
+WHERE gold > 1800;; #09:56:15@rubyquest.db
+SELECT *
+FROM person
+WHERE gold < 1800;; #09:57:00@rubyquest.db
+SELECT *
+FROM person
+WHERE gold < 1850;; #09:57:45@rubyquest.db
+SELECT *
+FROM person
+WHERE gold >= 1300;; #09:58:40@rubyquest.db
+SELECT *
+FROM weapon
+; #09:59:49@rubyquest.db
+SELECT *
+FROM weapon
+Where price < 300;; #10:00:00@rubyquest.db
+SELECT *
+FROM quest
+; #10:01:27@rubyquest.db
+SELECT *
+FROM quest
+WHERE gold > experience; #10:01:45@rubyquest.db
+SELECT *
+FROM creature; #10:02:17@rubyquest.db
+SELECT *
+FROM creature
+where health < max_health;; #10:02:53@rubyquest.db
+SELECT *
+FROM animal
+; #10:04:06@rubyquest.db
+SELECT *
+FROM animal
+; #10:07:50@rubyquest.db
+SELECT *
+FROM animal
+WHERE type = not 'Sheep'; #10:08:11@rubyquest.db

@@ -1,0 +1,14 @@
+{
+    "query": "SELECT * from animal\nWHERE owner = 1;",
+    "resultcount": 1,
+    "result": [
+        {
+            "id": 59,
+            "type": "Eagle",
+            "speed": 9,
+            "defense": 3,
+            "loyalty": 9,
+            "owner": 1
+        }
+    ]
+}

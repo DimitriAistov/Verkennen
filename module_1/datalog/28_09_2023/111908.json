@@ -1,0 +1,162 @@
+{
+    "query": "SELECT attack from weapon\n\n\n\n",
+    "resultcount": 52,
+    "result": [
+        {
+            "attack": 100
+        },
+        {
+            "attack": 150
+        },
+        {
+            "attack": 200
+        },
+        {
+            "attack": 250
+        },
+        {
+            "attack": 300
+        },
+        {
+            "attack": 425
+        },
+        {
+            "attack": 450
+        },
+        {
+            "attack": 500
+        },
+        {
+            "attack": 725
+        },
+        {
+            "attack": 925
+        },
+        {
+            "attack": 700
+        },
+        {
+            "attack": 755
+        },
+        {
+            "attack": 875
+        },
+        {
+            "attack": 1180
+        },
+        {
+            "attack": 1400
+        },
+        {
+            "attack": 1770
+        },
+        {
+            "attack": 1950
+        },
+        {
+            "attack": 2115
+        },
+        {
+            "attack": 2545
+        },
+        {
+            "attack": 2865
+        },
+        {
+            "attack": 3040
+        },
+        {
+            "attack": 3200
+        },
+        {
+            "attack": 125
+        },
+        {
+            "attack": 515
+        },
+        {
+            "attack": 1075
+        },
+        {
+            "attack": 1580
+        },
+        {
+            "attack": 2050
+        },
+        {
+            "attack": 2450
+        },
+        {
+            "attack": 2900
+        },
+        {
+            "attack": 325
+        },
+        {
+            "attack": 400
+        },
+        {
+            "attack": 1000
+        },
+        {
+            "attack": 1100
+        },
+        {
+            "attack": 1505
+        },
+        {
+            "attack": 1800
+        },
+        {
+            "attack": 2200
+        },
+        {
+            "attack": 2770
+        },
+        {
+            "attack": 2925
+        },
+        {
+            "attack": 3100
+        },
+        {
+            "attack": 3500
+        },
+        {
+            "attack": 225
+        },
+        {
+            "attack": 750
+        },
+        {
+            "attack": 2800
+        },
+        {
+            "attack": 115
+        },
+        {
+            "attack": 900
+        },
+        {
+            "attack": 1500
+        },
+        {
+            "attack": 2500
+        },
+        {
+            "attack": 1000
+        },
+        {
+            "attack": 2200
+        },
+        {
+            "attack": 3500
+        },
+        {
+            "attack": 4850
+        },
+        {
+            "attack": 6200
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+SELECT *
+FROM person
+LIMIT 10; #09:21:04@rubyquest.db
+SELECT *
+FROM weapon; #09:22:19@rubyquest.db
+SELECT *
+FROM weapon
+ORDER BY price DESC
+LIMIT 10; #09:24:10@rubyquest.db
+SELECT *
+FROM weapon
+ORDER BY attack DESC
+LIMIT 10; #09:26:02@rubyquest.db
+SELECT *
+FROM weapon
+ORDER BY attack DESC
+LIMIT 3; #09:26:06@rubyquest.db
+SELECT *
+FROM animal; #09:27:37@rubyquest.db
+SELECT *
+FROM animal
+; #09:40:04@rubyquest.db
