@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+header{
+    font-weight: bold;
+    color: blue;
+}
+
+footer{
+    color: red;
+    font-family: monospace;
+    text-decoration:underline ;
+}
+
+h1{
+    color: greenyellow;
+}
+
+h2{
+    color: orange;
+}
+
+.p{
+    color: yellow;
+    font-style: italic;
+}
+
+#para1{
+    color: blue;
+    font-weight: bold;
+}
+
+#para2{
+    color: yellow;
+    font-style: italic;
+}
+
+#last{
+    color: red;
+    font-family: monospace;
+}
+
+#uniek{
+    color: yellow;
+    background-color: red;
+    font-style: italic;
+}
