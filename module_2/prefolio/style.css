@@ -1,15 +1,28 @@
 body{
     background-color: azure;
     font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    text-align: center;
 }
 
 
 header{
     background-color: orange;
+    margin-top: 10px;
+    border: 3px solid orange;
+    border-radius: 25px;
+    text-align: center;
 }
 h1{
     color: white;
 }
+
 li{
     color: red;
+}
+
+.lijst1{
+    text-align: left;
+    border: 3px solid red;
+
 }
