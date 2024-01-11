@@ -1,20 +1,38 @@
 body{
     background-color: black;
     color: white;
+    min-width: 850px;
+
 }
 
 header{
     background-color: red;
     color: black;
     font-family: Sans-serif;
+    text-align: center;
+    border: 3px solid yellow;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 10px;
+
 }
 
 h1,h2,h3,h4{
     font-family: Sans-serif ;
+    padding: 5px;
+}
+
+h1{
+    margin-top: 0;
+}
+
+h2{
+    margin-bottom: 5px;
 }
 
 h3{
     color: yellow;
+    margin-bottom: 5px;
 }
 
 li{
